@@ -5,11 +5,11 @@
     {
       "name": "MC FREE SHOP",
       "filename": "MC_Free_Shop_v1.elf",
-      "url": "https://github.com/abasow/mc_free_store/releases/download/v1/MC_Free_Shop_v1.elf",
+      "url": "https://github.com/abasow/mc_free_store/releases/download/2.0.2/mc-free-shop.elf",
       "description": "PS5 game store and download manager with resumable downloads, library and favorites.",
       "version": "2.3.2",
       "category": "Utilities",
-      "checksum": "BURAYA_ELF_SHA256",
+      "checksum": "sha256:736e82aec5395dae1d52f270319188b9eb4af50385d344ee0d6a5e6afb1b4946",
       "receiveProtocol": 1
     }
   ]
