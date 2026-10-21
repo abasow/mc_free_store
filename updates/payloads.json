@@ -4,7 +4,7 @@
   "payloads": [
     {
       "name": "MC FREE SHOP",
-      "filename": "MC_Free_Shop_v1.elf",
+      "filename": "mc-free-shop.elf",
       "url": "https://github.com/abasow/mc_free_store/releases/download/2.0.2/mc-free-shop.elf",
       "description": "PS5 game store and download manager with resumable downloads, library and favorites.",
       "version": "2.3.2",
