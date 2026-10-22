@@ -7,7 +7,7 @@
       "filename": "mc-free-shop.elf",
       "url": "https://github.com/abasow/mc_free_store/releases/download/2.0.2/mc-free-shop.elf",
       "description": "PS5 game store and download manager with resumable downloads, library and favorites.",
-      "version": "2.3.2",
+      "version": "1.0.0",
       "category": "Utilities",
       "checksum": "sha256:736e82aec5395dae1d52f270319188b9eb4af50385d344ee0d6a5e6afb1b4946",
       "receiveProtocol": 1
