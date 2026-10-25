@@ -14,7 +14,7 @@ Game store and download manager that runs on PS5 (`store.elf`, port `1144`).
 - Detects installed games, one-tap PKG install
 - Library and storage via ShadowMount+ (mount, copy, move, delete)
 - Link capture from captcha/login sites through the PS5 browser
-- Editor's picks, favorites ♥, discounts, "New" shelf
+- Editor's picks, favorites ♥, downloads, "New" shelf
 - Announcements and ELF updates through GitHub, no rebuild needed
 - 4 languages, 5 themes, sounds, home-screen icon
 
@@ -28,7 +28,7 @@ PS5-də işləyən oyun mağazası və yükləmə meneceri (`store.elf`, port `1
 - Quraşdırılmış oyunların tanınması, bir toxunuşla PKG quraşdırma
 - ShadowMount+ ilə kitabxana və yaddaş (mount, kopyala, köçür, sil)
 - Captcha/giriş tələb edən saytlardan PS5 brauzeri ilə link tutma
-- Editor seçimi, seçilmişlər ♥, endirimlər, "Yenilər" rəfi
+- Editor seçimi, seçilmişlər ♥, yükləmələr, "Yenilər" rəfi
 - Elanlar və ELF yeniləməsi GitHub vasitəsilə, yenidən qurmaq lazım deyil
 - 4 dil, 5 mövzu, səslər, ana ekran ikonu
 
@@ -42,7 +42,7 @@ PS5'te çalışan oyun mağazası ve indirme yöneticisi (`store.elf`, port `114
 - Kurulu oyunları tanıma, tek dokunuşla PKG kurulumu
 - ShadowMount+ ile kütüphane ve depolama (mount, kopyala, taşı, sil)
 - Captcha/giriş isteyen sitelerden PS5 tarayıcısıyla bağlantı yakalama
-- Editör seçimi, favoriler ♥, indirimler, "Yeniler" rafı
+- Editör seçimi, favoriler ♥, indirmeler, "Yeniler" rafı
 - Duyurular ve ELF güncellemesi GitHub üzerinden, yeniden derleme gerekmez
 - 4 dil, 5 tema, sesler, ana ekran ikonu
 
@@ -56,6 +56,6 @@ PS5'te çalışan oyun mağazası ve indirme yöneticisi (`store.elf`, port `114
 - Определение установленных игр, установка PKG одним касанием
 - Библиотека и хранилище через ShadowMount+ (монтирование, копирование, перенос, удаление)
 - Перехват ссылок с сайтов с капчей/входом через браузер PS5
-- Выбор редакции, избранное ♥, скидки, полка «Новинки»
+- Выбор редакции, избранное ♥, загрузки, полка «Новинки»
 - Объявления и обновления ELF через GitHub, пересборка не нужна
 - 4 языка, 5 тем, звуки, значок на главном экране
